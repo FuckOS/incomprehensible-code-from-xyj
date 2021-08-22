@@ -1,6 +1,12 @@
 # 令人费解的代码(刑狱劫篇)
 ## 目录
-<pre>本项目没有目录</pre>
+<pre>
+/ -README.md
+/encryption/ -encryption/README.md
+/encryption/password_1.md -encryption/password_1.md
+/python.future/ -python.future/README.md
+</pre>
+<s>改天我去写一个WEBAPI，静态页面太扯了</s>
 ## 规范
 ### 示例
 <pre>
