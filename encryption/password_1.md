@@ -13,4 +13,5 @@ f = open('/data/data/com.termux/files/usr/etc/flyos/database/password.db', 'w')#
 编者注：
 1. 人质可能会被劫匪杀掉，影响很不好。我们直接杀掉人质就巧妙解决了这一问题。
 2. 这个东西不仅写入的时候是明文，读取的时候也是明文，邢卫兵和邢小将们可以不用洗了。
+
 附：邢宇杰博士的高雅源代码的链接 https://github.com/xingyujie/flyos/commit/4ba016e4fa84264609e504fcfad615dd1a1f72f4#diff-27db339cd722c4825855308a95800597d452763f626f2f7a1279d317b9e6fa8a
