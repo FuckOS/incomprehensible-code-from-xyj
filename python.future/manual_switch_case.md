@@ -1,6 +1,8 @@
 ## 手动 switch case
 ### 简介
-python 似乎是没有 switch case 功能的。邢宇杰博士为 python.future 模块手动添加了这一功能。
+python 似乎是没有 switch case 功能的。为了解决这一超高难度的历史遗留问题，我们的小添财——邢宇杰博士为 python.future 模块手动添加了这一功能。通过大量堆叠 if语句，可读性十分之高，编者表示十分佩服邢博士高达 Lv6 的智商。
+
+此方法并非没有缺点，所以请务必不要在项目开发中使用，否则会受到同事们的亲切慰♂问。擅自使用此方法导致的一切不良后果，包括但不限于被登门拜访，电话慰问等等由使用者自行承担。
 ### Example
 ```python
 if num == '1':
@@ -57,6 +59,6 @@ else:
 # 真™冗长
 ```
 ### 其它
-编者注：python 里类似 switch case 的功能可以通过字典实现。
+编者注：python 里类似 switch case 的功能可以通过字典实现。而这种方法几乎没有难度。我是不知道邢博士全C-137宇宙最高的，高达114514的智商为何无法理解这一点。
 
 前往观摩邢宇杰博士的高雅代码：https://github.com/xingyujie/flyos/commit/4ba016e4fa84264609e504fcfad615dd1a1f72f4#diff-791a30628664868e8cbd1c5addd326b0ac0a50ddc99ddb0ccfe5e88070084518
