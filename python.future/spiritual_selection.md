@@ -8,6 +8,6 @@ print("Choose your language:Chinese(Zh-CN UTF-8)Default")
 print("您好!欢迎您")
 ```
 ### 备注
-编者注
+编者注：
 - 其实他一开始就没想让你选
 - 这个源代码片段已经被邢宇杰博士弃用了，当个乐子就行，停止迫害。
